@@ -1,3 +1,9 @@
+###### 2024.05.16 [v4.3.0]
+
+```
+feat(okhttp,okhttp3): update okio dependency to v3.4.0
+```
+
 ###### 2023.03.27 [v4.2.0]
 
 ```
